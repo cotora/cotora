@@ -3,14 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=cotora" />
 </div>
 
-
-<!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 <br>
 
-
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
+<!--
 ## 🏃‍♀️ Activities
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=cotora&theme=vue-dark&layout=compact&count_private=true" />
@@ -18,6 +14,7 @@
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cotora&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
