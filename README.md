@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=cotora" />
 </div>
 
-## Hi there
+## Hi there 👋
 <br>
 
 <!--
